@@ -6,7 +6,7 @@ In addition to tutorial slides, example codes are provided in the purpose of edu
 * Download [tutorial slides](https://github.com/sunglok/3dv_tutorial/releases/download/misc/3dv_slides.pdf)
 * Download [example codes in a ZIP file](https://github.com/sunglok/3dv_tutorial/archive/master.zip)
 * Read [how to run example codes](https://github.com/sunglok/3dv_tutorial/blob/master/HOWTO_RUN.md)
-* Update new fisheye un-distortion, Ceres Solver examples: tutorials and simple mpc controller
+* **Update new examples**: _fisheye un-distortion, Ceres Solver: tutorials and simple mpc controller_
 
 ### What does its name come from?
 * The main title, _An Invitation to 3D Vision_, came from [a legendary book by Yi Ma, Stefano Soatto, Jana Kosecka, and Shankar S. Sastry](http://vision.ucla.edu/MASKS/). We wish that our tutorial will be the first gentle invitation card for beginners to 3D vision and its applications.
