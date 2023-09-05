@@ -7,7 +7,9 @@ In addition to tutorial slides, example codes are provided in the purpose of edu
 * Download [example codes in a ZIP file](https://github.com/sunglok/3dv_tutorial/archive/master.zip)
 * Read [how to run example codes](https://github.com/sunglok/3dv_tutorial/blob/master/HOWTO_RUN.md)
 * **Update new examples**: _fisheye un-distortion, Ceres Solver: tutorials and simple mpc controller_
-
+  * fisheye un-distortion: [fisheye_undistortion.cpp] 
+  * ceres_tutorial: [ceres_tut1, ceres_tut2, ceres_tut3]
+  * simple mpc controller: [ceres_mpc.cpp]
 ### What does its name come from?
 * The main title, _An Invitation to 3D Vision_, came from [a legendary book by Yi Ma, Stefano Soatto, Jana Kosecka, and Shankar S. Sastry](http://vision.ucla.edu/MASKS/). We wish that our tutorial will be the first gentle invitation card for beginners to 3D vision and its applications.
 * The subtitle, _for everyone_, was inspired from [Prof. Kim's online lecture](https://hunkim.github.io/ml/) (in Korean). Our tutorial is also intended not only for students and researchers in academia, but also for hobbyists and developers in industries. We tried to describe important and typical problems and their solutions in [OpenCV][]. We hope readers understand it easily without serious mathematical background.
